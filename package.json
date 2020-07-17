@@ -33,7 +33,7 @@
     "express-session": "^1.15.6",
     "knex": "^0.13.0",
     "knex-csv-transformer": "^1.0.4",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "moment": "^2.22.0",
     "morgan": "^1.9.0",
     "npm": "^5.8.0",
